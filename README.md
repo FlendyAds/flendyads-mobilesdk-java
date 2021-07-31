@@ -1,0 +1,1 @@
+# flendyads-mobilesdk-java
